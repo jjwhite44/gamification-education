@@ -14,6 +14,6 @@ The folders `CFRU Files` and `DPE Files` consist of all the files in the respect
 
 `CMSC 340 Final Product.gba` was the final game deliverable at the end of the independent study course. While it does not have complete quality of life changes, visual additions, and other detail work, it contains the core of the experimental manipulation that would be used in a gamification study. The other main deliverable from this course is the `CMSC 340 Final Write-Up`, which consists of a literature review on gamification and my proposed gamification experiment utilizing the game I created for the project.
 
-Before this became an academic endeavor, it began as a passion project, which now continues on. `Most Recent.gba` is a copy of the most recent version in development, which is stripped of the experimental conditions, and is instead just a game to play for fun. 
+Before this became an academic endeavor, it began as a passion project, which now continues on. `Most Recent.gba` is a copy of the most recent version in development, which is stripped of the experimental conditions, but has had many new features added to it, including an entire new generation of original Pokemon and many new items, trainers, and quality of life features.
 
 Note: any .gba file can be properly opened and run using a GBA Emulator.
